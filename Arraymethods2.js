@@ -43,4 +43,4 @@
 // it helps in creating the array withoug square brackets
 
 let output = Array.of('hi','hello', 23,9292.2, 12,false); 
-console.log(output)
+console.log(output);
